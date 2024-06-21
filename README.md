@@ -23,7 +23,7 @@
 
 ###
 
-<h5 align="left">hey there 👋<br>👋 Hi, I’m @codeplan73<br>👀 I’m interested in (Reactjs/Nextjs/NodeJS/) Web development<br>💞️ I’m looking to collaborate on Fullstack project<br>📫 How to reach me twitter:@codecps, email:onlinehuslte.cps@gmail.com, portfolio:https://globeraven.vercel.app</h5>
+<h5 align="left">hey there 👋<br>👋 Hi, I’m @codeplan73<br>👀 I’m interested in (Reactjs/Nextjs/NodeJS/) Web development<br>💞️ I’m looking to collaborate on Fullstack project<br>📫 How to reach me twitter:@codecps, email:omonzebaguan.grn@gmail.com, portfolio:https://codeplan.vercel.app</h5>
 
 ###
 
